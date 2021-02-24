@@ -1,1 +1,2 @@
-# Default keymap for Redox Wireless
+# Danielo keymap for Redox Wireless
+Most of the custom functionality is on my user-space `users/h0tbird`
