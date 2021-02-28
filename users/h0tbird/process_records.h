@@ -98,6 +98,7 @@ enum layers {
 #define CMD_QUOT GUI_T(KC_QUOTE)   // tap ' hold cmd
 #define SFT_QUOT LSFT_T(KC_QUOTE)  // tap ' hold shift
 #define SFT_STAR RSFT_T(KC_PAST)   // tap * hold shift
+#define SFT_BSLS LSFT_T(KC_BSLS)   // tap \ hold shift
 //=============== Movement modified
 #define CTL_LEFT LCTL(KC_LEFT)
 #define CTL_RIGHT LCTL(KC_RIGHT)
